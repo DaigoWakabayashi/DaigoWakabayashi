@@ -15,7 +15,7 @@
 
 - [【Stripe API×Cloud Functions】プラットフォーム型サービスにサブスクを導入する](https://zenn.dev/mamushi/articles/stripe_subscription)
 - [【Flutter × AdMob】ListView内でバナー広告を表示する](https://zenn.dev/mamushi/articles/flutter_ads_in_listview)
-- [【Flutter×Firebase】Cloud Firestoreクエリ一覧](https://zenn.dev/mamushi/articles/stripe_subscription)
+- [【Flutter×Firebase】Cloud Firestoreクエリ一覧](https://zenn.dev/mamushi/articles/a5e6c9f71e6ea4)
 
 
 # 📘 Stats
