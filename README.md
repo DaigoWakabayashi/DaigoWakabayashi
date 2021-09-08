@@ -3,10 +3,10 @@
 1998年生まれ、大阪出身の23歳。  
 主に Flutter と Firebase を用いたモバイルアプリ開発を行っています。
 
-- [Twitter](https://twitter.com/Mamushi_journey)
 - [Zenn](https://zenn.dev/mamushi)
 - [note](https://note.com/mamushi_journey)
-
+- [Twitter](https://twitter.com/Mamushi_journey)
+- 
 # 📘 MyApp 
 
 - [にゃんバズ | ねこ補給アプリ](https://nyanbuzz.studio.site/)
