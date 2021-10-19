@@ -9,7 +9,7 @@
 
 期間: 2020/04/20 〜 
 
-## 個人事業主
+## フリーランスエンジニア
 
 期間： 2020/10/22 〜
 
@@ -17,6 +17,10 @@
 ### CodeBoy
 
 - [CodeBoy](https://codeboy.jp)
+
+#### 概要
+
+プログラミングを学びたい人と、教えたいエンジニアのマッチングプラットフォーム（Webアプリ）
 
 #### 使用技術
 
@@ -34,6 +38,10 @@
 
 - [Flutter大学アプリ](https://apps.apple.com/jp/app/flutter%E5%A4%A7%E5%AD%A6/id1532391360)
 
+#### 概要
+
+Flutterアプリ開発コミュニティ、[Flutter大学](https://kboyflutteruniv.com/) のメンバー向けアプリ。
+
 #### 使用技術
 
 - Flutter
@@ -46,4 +54,4 @@
 - Stripe API
 
 
-
+- Stripe APIｓ
