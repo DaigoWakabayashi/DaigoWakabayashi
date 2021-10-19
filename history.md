@@ -14,9 +14,7 @@
 期間： 2020/10/22 〜
 
 
-### - CodeBoy
-
-- [CodeBoy](https://codeboy.jp)
+### [CodeBoy](https://codeboy.jp)
 
 #### 概要
 
@@ -34,9 +32,7 @@
 - Stripe API
 
 
-### - Flutter大学アプリ
-
-- [Flutter大学アプリ](https://apps.apple.com/jp/app/flutter%E5%A4%A7%E5%AD%A6/id1532391360)
+### [Flutter大学アプリ](https://apps.apple.com/jp/app/flutter%E5%A4%A7%E5%AD%A6/id1532391360)
 
 #### 概要
 
@@ -55,9 +51,7 @@ Flutterアプリ開発コミュニティ、[Flutter大学](https://kboyflutterun
 
 
 
-### - にゃんバズ | ねこ補給アプリ
-
-- [にゃんバズ | ねこ補給アプリ](https://nyanbuzz.studio.site/)
+### [にゃんバズ | ねこ補給アプリ](https://nyanbuzz.studio.site/)
 
 #### 概要
 
