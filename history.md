@@ -14,7 +14,7 @@
 期間： 2020/10/22 〜
 
 
-### CodeBoy
+### - CodeBoy
 
 - [CodeBoy](https://codeboy.jp)
 
@@ -34,7 +34,7 @@
 - Stripe API
 
 
-### Flutter大学アプリ
+### - Flutter大学アプリ
 
 - [Flutter大学アプリ](https://apps.apple.com/jp/app/flutter%E5%A4%A7%E5%AD%A6/id1532391360)
 
@@ -54,4 +54,22 @@ Flutterアプリ開発コミュニティ、[Flutter大学](https://kboyflutterun
 - Stripe API
 
 
-- Stripe APIｓ
+
+### - にゃんバズ | ねこ補給アプリ
+
+- [にゃんバズ | ねこ補給アプリ](https://nyanbuzz.studio.site/)
+
+#### 概要
+
+Twitterでバズっている「猫ツイート」を見て、猫不足を解消するアプリ。
+
+#### 使用技術
+
+- Flutter
+- Firebase
+  - Firestore
+  - Cloud Functions
+  - AdMob
+- TwitterAPI
+
+
