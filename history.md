@@ -46,7 +46,6 @@ Flutterアプリ開発コミュニティ、[Flutter大学](https://kboyflutterun
   - Authentication
   - Cloud Functions
   - Cloud Storage
-  - Hosting
 - Stripe API
 
 
