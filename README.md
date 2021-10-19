@@ -24,6 +24,8 @@
 - [職務経歴/学歴](https://github.com/DaigoWakabayashi/DaigoWakabayashi/blob/main/history.md)
 
 
+# 📘 GitHub Stats
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=daigowakabayashi&count_private=true&show_icons=true" />
 </a>
