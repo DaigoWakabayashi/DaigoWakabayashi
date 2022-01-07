@@ -7,7 +7,7 @@
 - [note](https://note.com/mamushi_journey)
 - [Twitter](https://twitter.com/Mamushi_journey)
 
-
+  
 # 📘 個人アプリ 
 
 - [にゃんバズ | ねこ補給アプリ](https://nyanbuzz.studio.site/)
@@ -18,6 +18,12 @@
 - [【Flutter × AdMob】ListView内でバナー広告を表示する](https://zenn.dev/mamushi/articles/flutter_ads_in_listview)
 - [【Flutter】初の個人開発で『ネコ補給アプリ』をリリースした話](https://zenn.dev/mamushi/articles/release_nyanbuzz)
 
+<a href="https://zenn.dev/mamushi">
+  <img src="https://zenn.badge.nikaera.com/s/mamushi/likes?style=flat" alt="mamushi likes" />
+</a>
+<a href="https://zenn.dev/mamushi/articles">
+  <img src="https://zenn.badge.nikaera.com/s/mamushi/articles?style=flat" alt="mamushi articles" />
+</a>
 
 # 📘 職歴・学歴
 
