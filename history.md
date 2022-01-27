@@ -1,68 +1,64 @@
-# 学歴
+# ✅ 職務経歴
 
-- 大阪府立高石高等学校 普通科
-- 大阪体育大学 体育学部 スポーツ教育学科
-
-# 経歴
-
-## 株式会社ファーストリテイリング
-
-期間: 2020/04/20 〜 
-
-## フリーランスエンジニア
-
-期間： 2020/10/22 〜
-
-
-### [CodeBoy](https://codeboy.jp)
-
-#### 概要
-
-プログラミングを学びたい人と、教えたいエンジニアのマッチングプラットフォーム（Webアプリ）
-
-#### 使用技術
+## プログラミング学習プラットフォームアプリ
 
 - Flutter Web
+  - provider
 - Firebase
-  - Firestore
-  - Authentication
-  - Cloud Functions
-  - Cloud Storage
-  - Hosting
+  - cloud_firestore
+  - authentication
+  - cloud_functions
+  - cloud_storage
+  - hosting
 - Stripe API
+- SendGrid
+- GitHubActions
 
-
-### [Flutter大学アプリ](https://apps.apple.com/jp/app/flutter%E5%A4%A7%E5%AD%A6/id1532391360)
-
-#### 概要
-
-Flutterアプリ開発コミュニティ、[Flutter大学](https://kboyflutteruniv.com/) のメンバー向けアプリ。
-
-#### 使用技術
+## フードデリバリー管理アプリ
 
 - Flutter
+  - hooks_riverpod
+  - flutter_hooks
+  - freezed
+  - dio
 - Firebase
-  - Firestore
-  - Authentication
-  - Cloud Functions
-  - Cloud Storage
-- Stripe API
+  - cloud_firestore
+  - cloud_storage
 
-
-
-### [にゃんバズ | ねこ補給アプリ](https://nyanbuzz.studio.site/)
-
-#### 概要
-
-Twitterでバズっている「猫ツイート」を見て、猫不足を解消するアプリ。
-
-#### 使用技術
+## NPO寄付プラットフォームアプリ
 
 - Flutter
+  - provider
 - Firebase
-  - Firestore
-  - Cloud Functions
-  - AdMob
-- TwitterAPI
+  - cloud_firestore
+  - authentication
+  - cloud_functions
+  - cloud_storage
+- Stripe API
+- SendGrid
+- Bitrise
 
+# ✅ 経歴
+
+## 株式会社ファーストリテイリング（2020/04〜）
+
+2020年3月に大阪体育大学卒業後、1年半ほどかけて海外を放浪するつもりが、コロナウイルスの影響により中止に。
+
+急遽、学生時代からアルバイトとしてお世話になっていたユニクロに入社。
+
+準社員として働きつつも海外への願望を捨てきれず、「コロナ禍の間に、いつでも海外にいけるような職に就いておこう」という動機でプログラミングを勉強し始める。
+
+最初はHTMLやCSSなどを触っていたが、Webだと他の初学者に埋もれてしまうと思い、7月頃からFlutterを学び始める。
+
+## フリーランスエンジニア(2020/10〜現在)
+
+エンジニア系YouTuberである [KBOYさん](https://github.com/kboy-silvergym)に弟子入りするため、大阪から札幌に移住し、Flutterを使ったアプリ開発を手伝う。
+
+2021年10月から、KBOYさんの元を離れ、フリーランスとして活動をしている。
+
+
+# ✅ 学歴
+
+- 大阪府立高石高等学校 普通科（2016年卒）
+- 大阪体育大学 体育学部 スポーツ教育学科（2020年卒）
 
