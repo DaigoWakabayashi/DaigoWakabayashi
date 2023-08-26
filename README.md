@@ -4,7 +4,7 @@
 - 💙 I'm Flutter Lover
 
 ### Accounts
-- [Twitter](https://twitter.com/DaigoWaka)
+- [Twitter](https://twitter.com/mamushi_journey)
 - [Zenn](https://zenn.dev/mamushi)
 - [note](https://note.com/mamushi_journey)
 
